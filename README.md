@@ -1,4 +1,4 @@
-# RC Install Script
+# Ryan Coppens Install Script
 ## Table of Contents
 
 * [About this Project](#About)
@@ -28,8 +28,8 @@ This script contains:
 Clone the github repo, or download the .sh file and put it on your device. run it with administrator rights.
 To run the script open a terminal and go to the file, than run the following commands: 
 
-- Command 1: chown u+x InstallScriptFinal.sh 
-- Command 2: sudo ./InstallScriptFinal.sh
+- Command 1: chown u+x ryanscriptopensource.sh 
+- Command 2: sudo ./ryanscriptopensource.sh
 
 ## Images
 
