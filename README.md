@@ -1,12 +1,5 @@
-# Tjodh's Nextcloud Installation Scipt
+# RC Install Script
 ## Table of Contents
-![image](https://img.shields.io/github/contributors-anon/Tjodh/Nextcloud-install-script?color=Green&label=Contributors&style=plastic)
-![image](https://img.shields.io/github/commit-activity/w/Tjodh/Nextcloud-install-script?style=plastic)
-![image](https://img.shields.io/github/last-commit/Tjodh/Nextcloud-install-script?style=plastic)
-![image](https://img.shields.io/github/downloads/Tjodh/Nextcloud-install-script/total?style=plastic)
-![image](https://img.shields.io/github/languages/top/Tjodh/Nextcloud-install-script?style=plastic)
-![image](https://img.shields.io/github/repo-size/Tjodh/Nextcloud-install-script?style=plastic)
-
 
 * [About this Project](#About)
 * [Usage](#Usage)
@@ -17,7 +10,7 @@
 * [Progress](#Progress)
 
 ## About
-An advanced Nextcloud installation script made by Tjodh, 
+An advanced Nextcloud installation script made by Ryan Coppens, 
 it contains the installation and configuration needed to install and configurate Nextcloud on your linux device (Tested on Lubuntu).
 
 Designed to make the installation process easy for new users. 
@@ -29,10 +22,6 @@ This script contains:
 4. IP viewing (usefull feature during setup)
 5. Configurate Apache or Ngnix.
 6. Installation of a database
-7. How to make an administrator account for nextcloud. 
-8. Security options: (Fail2ban install and configuration, Install SSL, make an certificate (Auto or Manual) and Install Let's Encrypt.)
-9. Configuration for Trusted Domains, Page Loading Fix included.
-10. And more! :P
 
 
 ## Usage 
@@ -44,11 +33,10 @@ To run the script open a terminal and go to the file, than run the following com
 
 ## Images
 
-![Main Menu](https://raw.githubusercontent.com/Tjodh/Nextcloud-install-script/main/screenshot/Main%20Menu.png)
-![Security Sub Menu](https://raw.githubusercontent.com/Tjodh/Nextcloud-install-script/main/screenshot/Security%20Menu.png)
+![Main Menu](https://raw.githubusercontent.com/Ryancoppens/RC-INSTALL_SCRIPT/main/Screenshots/screen.jpg)
 
 ## Credit
-This project was created by github user https://github.com/Tjodh.
+This project was created by github user https://github.com/Ryancoppens.
 
 
 ## Contribute 
@@ -56,7 +44,7 @@ If you wish to contribute to this application please send a pull request.
 
 
 ## Questions
-If you have any questions please contact https://github.com/tjodh.
+If you have any questions please contact https://github.com/Ryancoppens.
 
 ## Progress
 
